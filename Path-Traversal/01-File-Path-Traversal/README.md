@@ -48,7 +48,7 @@ Send the request.
 
 > <img width="1049" height="578" alt="image" src="https://github.com/user-attachments/assets/4743b6e5-0f3e-4932-bd2a-c25df27450f6" />
 
-### Step 5 – Observe the Response
+### Step 4 – Observe the Response
 
 The server responds with **200 OK** and returns the contents of the `/etc/passwd` file.
 
